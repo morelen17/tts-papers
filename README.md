@@ -1,4 +1,4 @@
-# tts-papers
+# Text-to-Speech Papers
 List of papers about TTS / Список статей о TTS
 
 ## [Tacotron: Towards End-to-End Speech Synthesis](https://arxiv.org/pdf/1703.10135.pdf)
