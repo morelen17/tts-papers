@@ -8,3 +8,4 @@ List of papers about TTS / Список статей о TTS
 * [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](http://papers.nips.cc/paper/5956-scheduled-sampling-for-sequence-prediction-with-recurrent-neural-networks.pdf)
 * [Fully Character-Level Neural Machine Translation without Explicit Segmentation](https://arxiv.org/pdf/1610.03017.pdf)
 * [A Study of the Recurrent Neural Network Encoder-Decoder for Large Vocabulary Speech Recognition](http://homepages.inf.ed.ac.uk/srenals/ll-rnn-is15.pdf)
+* [Generating Sequences With Recurrent Neural Networks](https://arxiv.org/pdf/1308.0850) - introducing an attention mechanism
