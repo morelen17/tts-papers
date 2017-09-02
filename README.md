@@ -9,3 +9,5 @@ List of papers about TTS / Список статей о TTS
 * [Fully Character-Level Neural Machine Translation without Explicit Segmentation](https://arxiv.org/pdf/1610.03017.pdf)
 * [A Study of the Recurrent Neural Network Encoder-Decoder for Large Vocabulary Speech Recognition](http://homepages.inf.ed.ac.uk/srenals/ll-rnn-is15.pdf)
 * [Generating Sequences With Recurrent Neural Networks](https://arxiv.org/pdf/1308.0850) - introducing an attention mechanism
+## Related
+* [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) - Word2Vec
