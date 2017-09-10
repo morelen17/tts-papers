@@ -11,5 +11,7 @@ List of papers about TTS / Список статей о TTS
 7. [Generating Sequences With Recurrent Neural Networks](https://arxiv.org/pdf/1308.0850) - introducing an attention mechanism
 8. [End-to-end Continuous Speech Recognition using Attention-based Recurrent NN: First Results](https://arxiv.org/pdf/1412.1602.pdf)
 9. [Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism](https://arxiv.org/pdf/1601.01073.pdf)
+10. [Grammar as a Foreign Language](https://arxiv.org/pdf/1412.7449.pdf) - Attention
+11. [Long Short-Term Memory-Networks for Machine Reading](https://arxiv.org/pdf/1601.06733.pdf) - Attention
 ## Related
 1. [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) - Word2Vec
