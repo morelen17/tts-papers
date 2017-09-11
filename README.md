@@ -16,3 +16,4 @@ List of papers about TTS / Список статей о TTS
 ## Related
 1. [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) - Word2Vec
 2. [RNN Approaches to Text Normalization: A Challenge](https://arxiv.org/pdf/1611.00068.pdf)
+3. [Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/pdf/1609.08144.pdf)
