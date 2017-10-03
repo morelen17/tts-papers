@@ -13,6 +13,9 @@ List of papers about TTS / Список статей о TTS
 9. [Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism](https://arxiv.org/pdf/1601.01073.pdf)
 10. [Grammar as a Foreign Language](https://arxiv.org/pdf/1412.7449.pdf) - Attention
 11. [Long Short-Term Memory-Networks for Machine Reading](https://arxiv.org/pdf/1601.06733.pdf) - Attention
+## Future improvements
+1. [Improving Speech Recognition By Rrevising Gated Recurrent Units](https://arxiv.org/pdf/1710.00641.pdf) - GRU simplifying (less training time, better results)
+2. [Information-Propogation-Enhanced Neural Machine Translation by Relation Model](https://arxiv.org/pdf/1709.01766.pdf) - Improved decoder, Relational Attention Model
 ## Related
 1. [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) - Word2Vec
 2. [RNN Approaches to Text Normalization: A Challenge](https://arxiv.org/pdf/1611.00068.pdf)
