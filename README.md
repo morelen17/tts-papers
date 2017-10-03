@@ -16,6 +16,7 @@ List of papers about TTS / Список статей о TTS
 ## Future improvements
 1. [Improving Speech Recognition By Rrevising Gated Recurrent Units](https://arxiv.org/pdf/1710.00641.pdf) - GRU simplifying (less training time, better results)
 2. [Information-Propogation-Enhanced Neural Machine Translation by Relation Model](https://arxiv.org/pdf/1709.01766.pdf) - Improved decoder, Relational Attention Model
+3. [Training RNNs as Fast as CNNs](https://arxiv.org/pdf/1709.02755.pdf)
 ## Related
 1. [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) - Word2Vec
 2. [RNN Approaches to Text Normalization: A Challenge](https://arxiv.org/pdf/1611.00068.pdf)
