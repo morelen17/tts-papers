@@ -14,10 +14,14 @@ List of papers about TTS / Список статей о TTS
 10. [Grammar as a Foreign Language](https://arxiv.org/pdf/1412.7449.pdf) - Attention
 11. [Long Short-Term Memory-Networks for Machine Reading](https://arxiv.org/pdf/1601.06733.pdf) - Attention
 ## Future improvements
-1. [Improving Speech Recognition By Rrevising Gated Recurrent Units](https://arxiv.org/pdf/1710.00641.pdf) - GRU simplifying (less training time, better results)
-2. [Information-Propogation-Enhanced Neural Machine Translation by Relation Model](https://arxiv.org/pdf/1709.01766.pdf) - Improved decoder, Relational Attention Model
+1. [Improving Speech Recognition by Revising Gated Recurrent Units](https://arxiv.org/pdf/1710.00641.pdf) - GRU simplifying (less training time, better results)
+2. [Information-Propagation-Enhanced Neural Machine Translation by Relation Model](https://arxiv.org/pdf/1709.01766.pdf) - Improved decoder, Relational Attention Model
 3. [Training RNNs as Fast as CNNs](https://arxiv.org/pdf/1709.02755.pdf)
 4. [DiSAN: Directional Self-Attention Network for RNN/CNN-free Language Understanding](https://arxiv.org/pdf/1709.04696.pdf) - Novel attention mechanism
+5. [Global-Context Neural Machine Translation through Target-Side Attentive Residual Connections](https://arxiv.org/pdf/1709.04849.pdf)
+6. [Attention-based Wav2Text With Feature Transfer Learning](https://arxiv.org/pdf/1709.07814.pdf)
+## Datasets
+1. [AISHELL-1: an Open-source Mandarin Speech Corpus and a Speech Recognition Baseline](https://arxiv.org/pdf/1709.05522.pdf) - Dataset text
 ## Related
 1. [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) - Word2Vec
 2. [RNN Approaches to Text Normalization: A Challenge](https://arxiv.org/pdf/1611.00068.pdf)
