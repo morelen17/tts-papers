@@ -33,3 +33,4 @@ List of papers about TTS / Список статей о TTS
 2. [RNN Approaches to Text Normalization: A Challenge](https://arxiv.org/pdf/1611.00068.pdf)
 3. [Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/pdf/1609.08144.pdf)
 4. [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)
+5. [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
